@@ -40,3 +40,6 @@ NumWebPurchases: Number of purchases made through the company’s website
 NumCatalogPurchases: Number of purchases made using a catalogue
 NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+
+![Model Diagram](marketingdb.png)
